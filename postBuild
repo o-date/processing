@@ -1,2 +1,3 @@
 pip install --upgrade calysto_processing --user
 python -m calysto_processing install --user
+wget https://raw.githubusercontent.com/processing-js/processing-js/v1.4.8/processing.min.js
