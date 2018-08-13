@@ -1,2 +1,3 @@
+add-apt-repository ppa:webupd8team/java
 update
 oracle-java8-installer
