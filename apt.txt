@@ -1,3 +1,2 @@
-update
 default-jre
 default-jdk
